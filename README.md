@@ -1,4 +1,4 @@
-<h1 align="center">🎮 Gabriel</h1> <h2>ou</h2> <h1>Astrohira</h1>
+<h1 align="center">🎮 Gabriel</h1><h2>ou</h2><h1>Astrohira</h1>
 
 <p align="center">
 💻 Estudante de Sistemas de Informação <br>
