@@ -28,9 +28,9 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=astrohira&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=astrohira&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrohira&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrohira&layout=compact&theme=tokyonight"/>
 </p>
 ---
 
