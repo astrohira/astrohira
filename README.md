@@ -1,53 +1,66 @@
-<h1 align="center">👋 Olá, eu sou o Gabriel</h1>
+<h1 align="center">🎮 Astrohira</h1>
 
 <p align="center">
 💻 Estudante de Sistemas de Informação <br>
-🚀 Desenvolvedor apaixonado por tecnologia <br>
-🎮 Gamer competitivo
+🚀 Desenvolvedor em evolução <br>
+🎯 Gamer competitivo
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=astrohira&color=blue&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 Sobre mim
+# 🧠 Sobre mim
 
-- 📚 Estudando **Sistemas de Informação**
-- 🧠 Interessado em **Desenvolvimento Web e Backend**
-- ⚡ Gosto de aprender novas tecnologias
-- 🎮 Gamer competitivo
+* 🎓 Estudando **Sistemas de Informação**
+* 💻 Desenvolvendo projetos **Web e Backend**
+* ⚡ Aprendendo cada vez mais sobre **Node.js**
+* 🎮 Gamer competitivo
 
 ---
 
-## 🛠️ Tecnologias
+# 🛠️ Tecnologias
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,sqlite,git,github,vscode"/>
 </p>
 
 ---
 
-## 🏆 Troféus
+# 📊 Estatísticas
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=astrohira&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=astrohira&show_icons=true&theme=tokyonight"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrohira&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🔥 Sequência de commits
+# 🔥 Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=astrohira&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=astrohira&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🌐 Contato
+# 🐍 Contribuições
 
-<p>
-<a href="https://github.com/astrohira">
-<img src="https://img.shields.io/badge/GitHub-astrohira-181717?style=for-the-badge&logo=github">
-</a>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
+
+---
+
+# 🚀 Projetos
+
+* 🍔 **MunchDelivery** – Sistema de delivery com Node.js
+* 🎬 **Catálogo de Filmes** – API com integração TMDb
 
 ---
 
