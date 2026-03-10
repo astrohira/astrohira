@@ -28,17 +28,16 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=astrohira&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=astrohira&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrohira&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrohira&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
-## 🔥 Streak
+## 🔥 Sequência de commits
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=astrohira&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=astrohira&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
