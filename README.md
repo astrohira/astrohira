@@ -36,14 +36,6 @@
 
 ---
 
-# 🐍 Contribuições
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
 # 🚀 Projetos
 
 * 🍔 **MunchDelivery** – Sistema de delivery com Node.js
