@@ -25,13 +25,12 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🏆 Troféus
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=astrohira&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrohira&layout=compact&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=astrohira&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
+
 ---
 
 ## 🔥 Sequência de commits
