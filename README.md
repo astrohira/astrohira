@@ -16,7 +16,7 @@
 
 * 🎓 Estudando **Sistemas de Informação**
 * 💻 Desenvolvendo projetos **Web e Backend**
-* ⚡ Aprendendo cada vez mais sobre **Node.js**
+* ⚡ Gosto de aprender novas tecnologias
 * 🎮 Gamer competitivo
 
 ---
@@ -25,18 +25,6 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,sqlite,git,github,vscode"/>
-</p>
-
----
-
-# 📊 Estatísticas
-
-<p align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=astrohira&show_icons=true&theme=tokyonight"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrohira&layout=compact&theme=tokyonight"/>
-
 </p>
 
 ---
