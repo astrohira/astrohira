@@ -3,7 +3,6 @@
 <p align="center">
 💻 Estudante de Sistemas de Informação <br>
 🚀 Desenvolvedor em evolução <br>
-🎯 Gamer competitivo
 </p>
 
 <p align="center">
