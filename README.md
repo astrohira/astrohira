@@ -52,6 +52,22 @@
 
 ---
 
+# 🌐 Contato
+
+<p align="center">
+
+<a href="mailto:gabrielalvesog7@gmail.com">
+<img src="https://img.shields.io/badge/Email-gabrielalvesog7%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/gabrielalves_og/">
+<img src="https://img.shields.io/badge/Instagram-@gabrielalves_og-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</p>
+
+---
+
 <p align="center">
 ✨ Obrigado por visitar meu perfil ✨
 </p>
